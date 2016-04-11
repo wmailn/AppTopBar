@@ -10,4 +10,5 @@ AppTopBarExample：继承BaseActivity避免所有Activity中添加此view的例�
 PS:AppTopBar非Library项目，无需引用。
 
 
+![image](https://github.com/ZhanRu/AppTopBar/blob/master/Image/leftimage_title.png)
 
