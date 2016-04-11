@@ -1,0 +1,47 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+
+    <com.example.apptopbar.AppTopBar
+        android:id="@+id/mAppTopBar"
+        android:layout_width="match_parent"
+        android:layout_height="50dp" />
+
+    <TextView
+        android:id="@+id/hint"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="50dp"
+        android:text="Click on the button below to select mode" />
+
+    <Button
+        android:id="@+id/leftimage_title"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:layout_marginTop="20dp"
+        android:text="LEFTIMAGE_TITLE" />
+
+    <Button
+        android:id="@+id/leftimage_title_rightimage"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:layout_marginTop="20dp"
+        android:text="LEFTIMAGE_TITLE_RIGHTIMAGE" />
+
+    <Button
+        android:id="@+id/leftimage_title_righttext"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:layout_marginTop="20dp"
+        android:text="LEFTIMAGE_TITLE_RIGHTTEXT" />
+
+    <Button
+        android:id="@+id/lefttext_title_righttext"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:layout_marginTop="20dp"
+        android:text="LEFTTEXT_TITLE_RIGHTTEXT" />
+
+</LinearLayout>
