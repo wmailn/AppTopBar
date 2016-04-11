@@ -7,4 +7,7 @@ AppTopBar：简单的集成使用
 
 AppTopBarExample：继承BaseActivity避免所有Activity中添加此view的例子。
 
+PS:AppTopBar非Library项目，无需引用。
+
+
 
