@@ -12,3 +12,9 @@ PS:AppTopBar非Library项目，无需引用。
 
 ![image](https://github.com/ZhanRu/AppTopBar/blob/master/Image/leftimage_title.png)
 
+![image](https://github.com/ZhanRu/AppTopBar/blob/master/Image/leftimage_title_rightimage.png)
+
+![image](https://github.com/ZhanRu/AppTopBar/blob/master/Image/leftimage_title_righttext.png)
+
+![image](https://github.com/ZhanRu/AppTopBar/blob/master/Image/lefttext_title_righttext.png)
+
